@@ -1,6 +1,6 @@
 👋 Hi, I’m Melissa! 
 
- I’m currrently on the path to transition from being a noise and vibration engineering consultant into the tech industry. If you'd like to connect, feel free to reach out on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/melissa-wong-a3786a65/)!
+ I’m currrently on the path to becoming a machine learning engineer. If you'd like to connect, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/melissa-wong-a3786a65/)!
 
 
 
